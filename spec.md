@@ -40,7 +40,7 @@ The first line of every program is considered to be the title and is ignored.
 ## Basic program (should print "Ƿes hāl middangeard")
 Ƿes hāl middangeard
 
-Atimbran an þrie. aught. twegen. ongean ceosan feower twegen. æftersona. aught. ceosan an feower. an. ongean þrie æfter aught. ceosan þrie feower. ongean aught. æftersona. onegen twegen. aught. an. aught. feower æfter. an. twegen. aught. feower. ongean feower. aught. ongean an. feower. æftersona æfter an. ongean ceosan feower twegen. þrie. aught. ceosan an feower. aught. ongean ceosan feower twegen. an. feower
+Atimbran an þrie, aught, twegen, onegan ceosan feower twegen, æftersona, aught, ceosan an feower, an, onegan þrie æfter aught, ceosan þrie feower, onegan aught, æftersona, onegen twegen, aught, an, aught, feower æfter, an, twegen, aught, feower, onegan feower, aught, onegan an, feower, æftersona æfter an, onegan ceosan feower twegen, þrie, aught, ceosan an feower, aught, onegan ceosan feower twegen, an, feower
 
 Acweþan
 
